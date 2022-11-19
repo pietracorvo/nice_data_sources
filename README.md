@@ -45,3 +45,6 @@ TOCODE
 - https://www.youtube.com/watch?v=2-tnkzG0sKU&ab_channel=RedStapler
 - https://www.youtube.com/watch?v=nzshmMlOuwI&ab_channel=BuildAppsWithPaulo
 - https://www.youtube.com/watch?v=UQ_kqGDM8A4&ab_channel=CurranKelleher
+
+Architecture
+- https://12factor.net/
