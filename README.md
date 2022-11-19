@@ -1,7 +1,6 @@
-# Nice datasources and visualizations
+# Misc
 
-
-Collection of data sources, nice charts and visulaizations on various topics.
+Collection of links and references about random topics concerning Data, Visualizations and other obnoxious programming stuff ...
 
 
 Climate/weather data
@@ -48,3 +47,4 @@ TOCODE
 
 Architecture
 - https://12factor.net/
+
