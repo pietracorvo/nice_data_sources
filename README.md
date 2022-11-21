@@ -35,12 +35,16 @@ JS Charting Libs
 - [ThreeJS](https://threejs.org/)
 - [JavaScript charting libs](https://www.youtube.com/watch?v=gmLzi1w85t4&ab_channel=CODEISEVERYTHING)
 - [D3.js gallery](https://github.com/d3/d3/wiki/Gallery)
+- [AnyChart](https://www.anychart.com/)
+- [DC.js](https://dc-js.github.io/dc.js/)
+- [CrossFilter](https://crossfilter.github.io/crossfilter/)
+- [D3.js](https://d3js.org/) (or [C3.js](https://drarmstr.github.io/chartcollection/))
 
 General
-- http://opendata-tools.org/en/
-- http://daten.buergernetz.bz.it/de/dataset
-- https://www.washingtonpost.com/world/interactive/2022/world-population-8-billion/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjIwMDAxMTk4IiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTY2ODU3ODMzNiwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTY2OTc4NzkzNiwiaWF0IjoxNjY4NTc4MzM2LCJqdGkiOiIxNzYzMGRkZi1lZmMyLTRkYTYtODUyNC1kNzQzMmMxZWZiNGUiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vd29ybGQvaW50ZXJhY3RpdmUvMjAyMi93b3JsZC1wb3B1bGF0aW9uLTgtYmlsbGlvbi8ifQ.M-OJi_V1ruUnVwq7PQ9FNSSD3AzEGZ-i0Zk52HfcvWY&itid=gfta
-- https://satellitecharts.xyz/index.html
+- [OpenData Tools](http://opendata-tools.org/en/)
+- [Südtriol OpenData](http://daten.buergernetz.bz.it/de/dataset)
+- [Washington Post - 8Billion (Interactive Data Report)](https://www.washingtonpost.com/world/interactive/2022/world-population-8-billion/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjIwMDAxMTk4IiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTY2ODU3ODMzNiwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTY2OTc4NzkzNiwiaWF0IjoxNjY4NTc4MzM2LCJqdGkiOiIxNzYzMGRkZi1lZmMyLTRkYTYtODUyNC1kNzQzMmMxZWZiNGUiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vd29ybGQvaW50ZXJhY3RpdmUvMjAyMi93b3JsZC1wb3B1bGF0aW9uLTgtYmlsbGlvbi8ifQ.M-OJi_V1ruUnVwq7PQ9FNSSD3AzEGZ-i0Zk52HfcvWY&itid=gfta)
+- [Satellite Charts](https://satellitecharts.xyz/index.html)
 
 TOCODE
 - https://www.youtube.com/watch?v=GVrjv9ajsJ0&ab_channel=ChristopherEdwards
