@@ -9,10 +9,10 @@ Climate/weather data
 - [ZAMG Klimaspiegel App](https://www.zamg.ac.at/cms/de/klima/klima-aktuell/klimamonitoring)
 
 Politics
-- [Panama Papers as Graph](https://github.com/neo4j-graph-examples/icij-panama-papers)
+- [Panama Papers as Neo4j Graph](https://github.com/neo4j-graph-examples/icij-panama-papers)
 
 General informations
-- (CIA World FActobook)[https://www.cia.gov/the-world-factbook/]
+- [CIA World FActobook](https://www.cia.gov/the-world-factbook/)
 
 Other Github Sources
 - https://github.com/jsbroks/awesome-dataset-tools
