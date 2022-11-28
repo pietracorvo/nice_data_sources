@@ -24,6 +24,7 @@ Music/Scores
 About Data Viz
 - https://www.youtube.com/watch?v=pLqjQ55tz-U&ab_channel=TED
 - [Vortrag: exploring multidimensional data](https://www.youtube.com/watch?v=ypc7Ul9LkxA&ab_channel=BocoupLLC)
+- [DataViz JobInterview](https://paldhous.github.io/ucb/2015/dataviz/week3.html)
 
 Nice JS Tables
 - [Angular](https://www.primefaces.org/primeng/#/table)
