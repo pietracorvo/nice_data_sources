@@ -10,6 +10,7 @@ Climate/weather data
 
 Politics
 - [Panama Papers as Neo4j Graph](https://github.com/neo4j-graph-examples/icij-panama-papers)
+- [The opportunity atlas map](https://www.opportunityatlas.org/)
 
 General informations
 - [CIA World FActobook](https://www.cia.gov/the-world-factbook/)
