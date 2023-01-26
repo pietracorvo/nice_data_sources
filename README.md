@@ -42,6 +42,9 @@ JS Charting Libs
 - [CrossFilter](https://crossfilter.github.io/crossfilter/)
 - [D3.js](https://d3js.org/) (or [C3.js](https://drarmstr.github.io/chartcollection/))
 
+OStweaks
+- [ports of common GNU utilities to native Win32](https://unxutils.sourceforge.net/)
+
 General
 - [OpenData Tools](http://opendata-tools.org/en/)
 - [Südtriol OpenData](http://daten.buergernetz.bz.it/de/dataset)
