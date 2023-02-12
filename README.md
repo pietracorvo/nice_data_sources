@@ -4,6 +4,10 @@ Collection of links and references about random topics concerning Data, Visualiz
 
 TODO separate between data/APIs, libs, demos/examples, lectures/papers, etc.
 
+General Data Sources (evtl TOSCRAPE)
+
+- [Internet Archive](https://archive.org/)
+
 Climate/weather data
 - [Nice interactive Climate Data Document](https://klimadashboard.at/)
 - [ZAMG Klimaspiegel App](https://www.zamg.ac.at/cms/de/klima/klima-aktuell/klimamonitoring)
