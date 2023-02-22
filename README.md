@@ -2,8 +2,6 @@
 
 Collection of links and references about random topics concerning Data, Visualizations and other obnoxious programming stuff ...
 
-TODO separate between data/APIs, libs, demos/examples, lectures/papers, etc.
-
 General Data Sources (evtl TOSCRAPE)
 
 - [Internet Archive](https://archive.org/)
@@ -12,6 +10,7 @@ General Data Sources (evtl TOSCRAPE)
 - [Südtriol OpenData](http://daten.buergernetz.bz.it/de/dataset)
 - [Washington Post - 8Billion (Interactive Data Report)](https://www.washingtonpost.com/world/interactive/2022/world-population-8-billion/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjIwMDAxMTk4IiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTY2ODU3ODMzNiwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTY2OTc4NzkzNiwiaWF0IjoxNjY4NTc4MzM2LCJqdGkiOiIxNzYzMGRkZi1lZmMyLTRkYTYtODUyNC1kNzQzMmMxZWZiNGUiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vd29ybGQvaW50ZXJhY3RpdmUvMjAyMi93b3JsZC1wb3B1bGF0aW9uLTgtYmlsbGlvbi8ifQ.M-OJi_V1ruUnVwq7PQ9FNSSD3AzEGZ-i0Zk52HfcvWY&itid=gfta)
 - [Satellite Charts](https://satellitecharts.xyz/index.html)
+- [CIA World FActobook](https://www.cia.gov/the-world-factbook/)
 
 Climate/weather data
 - [Nice interactive Climate Data Document](https://klimadashboard.at/)
@@ -21,10 +20,7 @@ Politics
 - [Panama Papers as Neo4j Graph](https://github.com/neo4j-graph-examples/icij-panama-papers)
 - [The opportunity atlas map](https://www.opportunityatlas.org/)
 
-General informations
-- [CIA World FActobook](https://www.cia.gov/the-world-factbook/)
-
-Other Github Sources
+Other Github Sources & Lists
 - https://github.com/jsbroks/awesome-dataset-tools
 
 Music/Scores
