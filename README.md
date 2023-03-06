@@ -2,7 +2,7 @@
 
 Collection of links and references about random topics concerning Data, Visualizations and other obnoxious programming stuff ...
 
-General Data Sources (evtl TOSCRAPE)
+General Data Sources
 
 - [Internet Archive](https://archive.org/)
 - [Papers With Code](https://paperswithcode.com/)
@@ -24,7 +24,10 @@ Music/Scores
 - https://www.free-scores.com/index_uk.php
 - https://musopen.org/
 
-About Data Viz
+Statistics stuff
+- [article towardsdatascience: "Hypothesis Testing & p-Value"](https://towardsdatascience.com/hypothesis-testing-p-value-13b55f4b32d9)
+
+Data Viz stuff
 - https://www.youtube.com/watch?v=pLqjQ55tz-U&ab_channel=TED
 - [Vortrag: exploring multidimensional data](https://www.youtube.com/watch?v=ypc7Ul9LkxA&ab_channel=BocoupLLC)
 - [DataViz JobInterview](https://paldhous.github.io/ucb/2015/dataviz/week3.html)
