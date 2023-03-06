@@ -50,7 +50,7 @@ OStweaks
 Architecture
 - [12 Factor App](https://12factor.net/)
 
-Other handy DS and ML libs
+Other handy DS and ML stuff
 - [Blog - fastforwardlabs](https://github.com/fastforwardlabs/cmlbootstrap)
 - [Article (TowardsDS) - how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku](https://towardsdatascience.com/how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku-bd9b8f9de6cf)
 - [Lib - PyPyr: task runner for automation pipelines, script sequential task workflow steps in yaml, conditional execution, loops, error handling & retries](https://pypyr.io/)
