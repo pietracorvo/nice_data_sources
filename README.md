@@ -50,6 +50,7 @@ OStweaks
 Architecture
 - [12 Factor App](https://12factor.net/)
 - [how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku](https://towardsdatascience.com/how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku-bd9b8f9de6cf)
+- [PyPyr: task runner for automation pipelines, script sequential task workflow steps in yaml, conditional execution, loops, error handling & retries](https://pypyr.io/)
 
 Nice Blogs
 - [FastForwardLabs Blog](https://blog.fastforwardlabs.com/)
