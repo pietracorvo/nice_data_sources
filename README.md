@@ -49,17 +49,21 @@ OStweaks
 
 Architecture
 - [12 Factor App](https://12factor.net/)
-- [how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku](https://towardsdatascience.com/how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku-bd9b8f9de6cf)
-- [PyPyr: task runner for automation pipelines, script sequential task workflow steps in yaml, conditional execution, loops, error handling & retries](https://pypyr.io/)
-
-Nice Blogs
-- [FastForwardLabs Blog](https://blog.fastforwardlabs.com/)
 
 Other handy DS and ML libs
-- https://github.com/fastforwardlabs/cmlbootstrap
+- [Blog - fastforwardlabs](https://github.com/fastforwardlabs/cmlbootstrap)
+- [Article (TowardsDS) - how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku](https://towardsdatascience.com/how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku-bd9b8f9de6cf)
+- [Lib - PyPyr: task runner for automation pipelines, script sequential task workflow steps in yaml, conditional execution, loops, error handling & retries](https://pypyr.io/)
+- [Article (Medium) - Using Continuous Machine Learning to Run Your ML Pipeline](https://medium.com/@karthik.vaithyanathan/using-continuous-machine-learning-to-run-your-ml-pipeline-eeeeacad69a3)
+- [GitHub - CML: open-source CLI tool for implementing continuous integration & delivery (CI/CD) with a focus on MLOps](https://github.com/iterative/cml)
+- [BlogPost - ML Ops Template](https://iutsav.dev/posts/mlops_template_1_setup/)
+- [BlogPost - Surfing the Data Pipeline with Python](https://jkropko.github.io/surfing-the-data-pipeline/ch1.html)
 
 Other Github Sources & Lists
 - https://github.com/jsbroks/awesome-dataset-tools
+
+Other nice Blogs/Articles/etc
+- [FastForwardLabs Blog](https://blog.fastforwardlabs.com/)
 
 TOCODE
 - https://www.youtube.com/watch?v=GVrjv9ajsJ0&ab_channel=ChristopherEdwards
