@@ -47,11 +47,17 @@ JS Charting Libs
 - [CrossFilter](https://crossfilter.github.io/crossfilter/)
 - [D3.js](https://d3js.org/) (or [C3.js](https://drarmstr.github.io/chartcollection/))
 
+Handy DS and ML libs:
+- https://github.com/fastforwardlabs/cmlbootstrap
+
 OStweaks
 - [ports of common GNU utilities to native Win32](https://unxutils.sourceforge.net/)
 
 Architecture
 - [12 Factor App](https://12factor.net/)
+
+Blogs
+- [FastForwardLabs Blog](https://blog.fastforwardlabs.com/)
 
 TOCODE
 - https://www.youtube.com/watch?v=GVrjv9ajsJ0&ab_channel=ChristopherEdwards
