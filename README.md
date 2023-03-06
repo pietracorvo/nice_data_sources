@@ -57,7 +57,7 @@ Other handy DS and ML libs
 - [Article (Medium) - Using Continuous Machine Learning to Run Your ML Pipeline](https://medium.com/@karthik.vaithyanathan/using-continuous-machine-learning-to-run-your-ml-pipeline-eeeeacad69a3)
 - [GitHub - CML: open-source CLI tool for implementing continuous integration & delivery (CI/CD) with a focus on MLOps](https://github.com/iterative/cml)
 - [BlogPost - ML Ops Template](https://iutsav.dev/posts/mlops_template_1_setup/)
-- [BlogPost - Surfing the Data Pipeline with Python](https://jkropko.github.io/surfing-the-data-pipeline/ch1.html)
+- [Book - Surfing the Data Pipeline with Python](https://jkropko.github.io/surfing-the-data-pipeline/ch1.html)
 
 Other Github Sources & Lists
 - https://github.com/jsbroks/awesome-dataset-tools
