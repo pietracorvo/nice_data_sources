@@ -25,7 +25,7 @@ Music/Scores
 - https://musopen.org/
 
 Statistics stuff
-- [article towardsdatascience: "Hypothesis Testing & p-Value"](https://towardsdatascience.com/hypothesis-testing-p-value-13b55f4b32d9)
+- [Article (TowardsDS) - Hypothesis Testing & p-Value](https://towardsdatascience.com/hypothesis-testing-p-value-13b55f4b32d9)
 
 Data Viz stuff
 - https://www.youtube.com/watch?v=pLqjQ55tz-U&ab_channel=TED
