@@ -47,6 +47,9 @@ JS Charting Libs
 - [CrossFilter](https://crossfilter.github.io/crossfilter/)
 - [D3.js](https://d3js.org/) (or [C3.js](https://drarmstr.github.io/chartcollection/))
 
+Digital CUration
+- [Omeka](https://omeka.org/)
+
 OStweaks
 - [ports of common GNU utilities to native Win32](https://unxutils.sourceforge.net/)
 
