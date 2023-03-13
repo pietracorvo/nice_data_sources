@@ -55,7 +55,7 @@ Architecture
 
 NLP (BERT/etc)
 - [excellent article](https://medium.com/huggingface/distilbert-8cf3380435b5) HOWTO use PyTorch to generate [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert) by compression/Knowledge Distillation
-- ["How to train a new language model from scratch using Transformers and Tokenizers"](https://huggingface.co/blog/how-to-train) with DistilBERT
+- HOWTO ["Train a new language model from scratch using Transformers and Tokenizers"](https://huggingface.co/blog/how-to-train) with DistilBERT
 
 Other handy DS and ML stuff
 - [Blog - fastforwardlabs](https://github.com/fastforwardlabs/cmlbootstrap)
