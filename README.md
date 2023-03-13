@@ -68,6 +68,7 @@ Other handy DS and ML stuff
 
 Other Github Sources & Lists
 - https://github.com/jsbroks/awesome-dataset-tools
+- TRCH [OpenSearch @GH](https://github.com/opensearch-project/OpenSearch)
 
 Other nice Blogs/Articles/etc
 - [FastForwardLabs Blog](https://blog.fastforwardlabs.com/)
