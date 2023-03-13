@@ -55,6 +55,7 @@ Architecture
 
 NLP (BERT/etc)
 - [excellent article](https://medium.com/huggingface/distilbert-8cf3380435b5) concenring [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert) (especially Knowledge Distillation)
+- ["How to train a new language model from scratch using Transformers and Tokenizers"](https://huggingface.co/blog/how-to-train) with DistilBERT
 
 Other handy DS and ML stuff
 - [Blog - fastforwardlabs](https://github.com/fastforwardlabs/cmlbootstrap)
