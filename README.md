@@ -54,7 +54,7 @@ Architecture
 - [12 Factor App](https://12factor.net/)
 
 NLP (BERT/etc)
-- excellent [article](https://medium.com/huggingface/distilbert-8cf3380435b5) concenring [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert) (especially Knowledge Distillation)
+- [excellent article](https://medium.com/huggingface/distilbert-8cf3380435b5) concenring [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert) (especially Knowledge Distillation)
 
 Other handy DS and ML stuff
 - [Blog - fastforwardlabs](https://github.com/fastforwardlabs/cmlbootstrap)
