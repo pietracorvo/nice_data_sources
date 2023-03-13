@@ -53,6 +53,9 @@ OStweaks
 Architecture
 - [12 Factor App](https://12factor.net/)
 
+NLP (BERT/etc)
+- excellent [article](https://medium.com/huggingface/distilbert-8cf3380435b5) concenring [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert) (especially Knowledge Distillation)
+
 Other handy DS and ML stuff
 - [Blog - fastforwardlabs](https://github.com/fastforwardlabs/cmlbootstrap)
 - [Article (TowardsDS) - how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku](https://towardsdatascience.com/how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku-bd9b8f9de6cf)
