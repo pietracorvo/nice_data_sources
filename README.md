@@ -57,6 +57,9 @@ NLP (BERT/etc)
 - [excellent article](https://medium.com/huggingface/distilbert-8cf3380435b5) HOWTO use PyTorch to generate [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert) by compression/Knowledge Distillation
 - HOWTO ["Train a new language model from scratch using Transformers and Tokenizers"](https://huggingface.co/blog/how-to-train) with DistilBERT
 
+DevOPS
+- [CircleCI](https://circleci.com/pricing/)
+
 Other handy DS and ML stuff
 - [Blog - fastforwardlabs](https://github.com/fastforwardlabs/cmlbootstrap)
 - [Article (TowardsDS) - how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku](https://towardsdatascience.com/how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku-bd9b8f9de6cf)
