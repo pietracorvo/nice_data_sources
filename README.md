@@ -47,7 +47,7 @@ JS Charting Libs
 - [CrossFilter](https://crossfilter.github.io/crossfilter/)
 - [D3.js](https://d3js.org/) (or [C3.js](https://drarmstr.github.io/chartcollection/))
 
-Digital CUration
+Digital Curation
 - [Omeka](https://omeka.org/)
 
 OStweaks
@@ -62,6 +62,11 @@ NLP (BERT/etc)
 
 DevOPS
 - [CircleCI](https://circleci.com/pricing/)
+
+GT datasets
+- [TC-11 GT datasets](https://tc11.cvc.uab.es/datasets/)
+- [HTR-united GT datasets](https://htr-united.github.io/)
+- list of [OCR related GT datasets](https://cneud.github.io/ocr-gt/) curated by C.Neudecker
 
 Other handy DS and ML stuff
 - [Blog - fastforwardlabs](https://github.com/fastforwardlabs/cmlbootstrap)
