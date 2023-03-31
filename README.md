@@ -68,6 +68,9 @@ GT datasets
 - [HTR-united GT datasets](https://htr-united.github.io/)
 - list of [OCR related GT datasets](https://cneud.github.io/ocr-gt/) curated by C.Neudecker
 
+Nice code challenges
+- https://scrollprize.org/
+
 Other handy DS and ML stuff
 - [Blog - fastforwardlabs](https://github.com/fastforwardlabs/cmlbootstrap)
 - [Article (TowardsDS) - how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku](https://towardsdatascience.com/how-i-deployed-a-sentiment-analyser-api-with-spacy-flask-and-heroku-bd9b8f9de6cf)
