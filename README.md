@@ -41,11 +41,15 @@ JS Tables
 JS Charting Libs
 - [ThreeJS](https://threejs.org/)
 - [JavaScript charting libs](https://www.youtube.com/watch?v=gmLzi1w85t4&ab_channel=CODEISEVERYTHING)
-- [D3.js gallery](https://github.com/d3/d3/wiki/Gallery)
 - [AnyChart](https://www.anychart.com/)
 - [DC.js](https://dc-js.github.io/dc.js/)
 - [CrossFilter](https://crossfilter.github.io/crossfilter/)
+
+Nice D3 stuff I would like to use
+- [D3.js gallery](https://github.com/d3/d3/wiki/Gallery)
+- [ode to sunburst](https://denjn5.github.io/)
 - [D3.js](https://d3js.org/) (or [C3.js](https://drarmstr.github.io/chartcollection/))
+
 
 Digital Curation
 - [Omeka](https://omeka.org/)
