@@ -49,7 +49,7 @@ Nice D3 stuff I would like to use
 - [D3.js gallery](https://github.com/d3/d3/wiki/Gallery)
 - [ode to sunburst](https://denjn5.github.io/)
 - [D3.js](https://d3js.org/) (or [C3.js](https://drarmstr.github.io/chartcollection/))
-
+- [No frills sunbirst (from guy of ode to sunburst)](https://gist.github.com/denjn5/e1cdbbe586ac31747b4a304f8f86efa5)
 
 Digital Curation
 - [Omeka](https://omeka.org/)
