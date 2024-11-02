@@ -2,6 +2,16 @@
 
 Collection of links and references about random topics concerning Data, Visualizations and other obnoxious programming stuff ...
 
+### New Stuff
+
+- https://akirodic.com/p/jellyfish/
+- https://pudding.cool/
+- https://pudding.cool/2018/01/chyrons/
+- https://bbc.github.io/rcookbook/#how_to_create_bbc_style_graphics
+- TBC
+
+### Old Stuff
+
 General Data Sources
 
 - [Internet Archive](https://archive.org/)
